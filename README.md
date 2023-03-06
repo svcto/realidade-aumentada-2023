@@ -12,5 +12,5 @@ Feito isso, basta baixar o banco de dados.
 
  <p align="center">
 
-<img src="https://i.ibb.co/zFQyWR8/print1.jpg">
+<img width="250" src="https://i.ibb.co/zFQyWR8/print1.jpg">
 </p>
