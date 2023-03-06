@@ -15,6 +15,6 @@ Após subir o alvo desejado, será possível visualizar o mapeamento como na ima
 
 Feito isso, basta baixar o banco de dados.
 
-<img width="500" src="[https://i.ibb.co/zFQyWR8/print1.jpg](https://i.ibb.co/02L13Dk/Anima-o.gif)">
+<img width="500" src="https://i.ibb.co/02L13Dk/Anima-o.gif">
 
 
