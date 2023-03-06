@@ -10,7 +10,6 @@ Este projeto utiliza o Unity e o Vuforia, que viabilizam o uso de realidade aume
 Será preciso criar uma conta e uma licença para registrar o alvo (target).
 Feito isso, basta baixar o banco de dados.
 
- <p align="center">
 
 <img width="500" src="https://i.ibb.co/zFQyWR8/print1.jpg">
-</p>
+
