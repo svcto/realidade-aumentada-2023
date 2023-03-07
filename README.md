@@ -40,5 +40,7 @@ public class rotate : MonoBehaviour
     }
 }
 ```
-#### Basta escolher o eixo de rotação e a módulo da posição nesse caso:
-> X = 50, Y = 50, Z = 50.
+Em seguida, altere os valores:
+
+<img width="500" src="https://i.ibb.co/hmjd1Q8/Captura-de-tela-2023-03-06-210413.png">
+
