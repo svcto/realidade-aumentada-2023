@@ -76,20 +76,20 @@ public class Movimento : MonoBehaviour
 
 Adicione um elemento Cube com o nome *Plano* conforme a imagem:
 
-<img width="500" src="https://i.ibb.co/RSnDL9R/plano.jpg">
+<img src="https://i.ibb.co/RSnDL9R/plano.jpg">
 
 
 A hierarquia deve ser disposta como na imagem a seguir:
 
-<img width="500" src="https://i.ibb.co/7N98wsw/hierarquia.jpg">
+<img src="https://i.ibb.co/7N98wsw/hierarquia.jpg">
 
 
 
 No elemento Cube adicione um componente "Rigidbody" no botão "Add Component" no Inspector:
 
 
-<img width="500" src="https://i.ibb.co/k2S0mDy/add-component.png">
+<img src="https://i.ibb.co/k2S0mDy/add-component.png">
 
 Para habilitar a gravidade, basta marcar a opção "Use Gravity":
 
-<img width="500" src="https://i.ibb.co/cb4F1sQ/elemento-fisico.jpg">
+<img src="https://i.ibb.co/cb4F1sQ/elemento-fisico.jpg">
