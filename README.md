@@ -26,7 +26,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class rotate : MonoBehaviour
+public class ScriptRotacionar : MonoBehaviour
 {
     public Vector3 rotateAmount;
     void Start()
