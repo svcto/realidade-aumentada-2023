@@ -44,3 +44,29 @@ Em seguida, altere os valores:
 
 <img width="500" src="https://i.ibb.co/hmjd1Q8/Captura-de-tela-2023-03-06-210413.png">
 
+Para adicionar os controles via teclado, crie um script com o nome Movimento e adicione ao cubo.
+
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Movimento : MonoBehaviour
+{
+    Vector3 Vec;
+    void Start()
+    {
+    }
+
+    void Update()
+    {
+        Vec = transform.localPosition;
+        Vec.y += Input.GetAxis("Jump") * Time.deltaTime * 5;
+        Vec.x += Input.GetAxis("Horizontal") * Time.deltaTime * 5;
+        Vec.z += Input.GetAxis("Vertical") * Time.deltaTime * 5;
+        transform.localPosition = Vec;
+    }
+}
+
+```
