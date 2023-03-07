@@ -19,7 +19,7 @@ Em seguida, monte sua centa com o Imagem Target e a Câmera AR:
 
 <img width="500" src="https://i.ibb.co/02L13Dk/Anima-o.gif">
 
-#### O script para rotacionar o Cubo
+#### Adicione o script ao cubo para fazê-lo rotacionar
 
 ```csharp
 using System.Collections;
@@ -40,3 +40,5 @@ public class rotate : MonoBehaviour
     }
 }
 ```
+#### Basta escolher o eixo de rotação e a módulo da posição nesse caso:
+> X = 50, Y = 50, Z = 50.
