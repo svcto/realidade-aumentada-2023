@@ -15,6 +15,28 @@ Após subir o alvo desejado, será possível visualizar o mapeamento como na ima
 
 Feito isso, basta baixar o banco de dados.
 
+Em seguida, monte sua centa com o Imagem Target e a Câmera AR:
+
 <img width="500" src="https://i.ibb.co/02L13Dk/Anima-o.gif">
 
+#### O script para rotacionar o Cubo
 
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class rotate : MonoBehaviour
+{
+    public Vector3 rotateAmount;
+    void Start()
+    {
+        
+    }
+
+    void Update()
+    {
+        transform.Rotate(rotateAmount * Time.deltaTime);
+    }
+}
+```
